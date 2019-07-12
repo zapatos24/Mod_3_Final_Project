@@ -111,3 +111,6 @@ api_keys.py
 
 # native Mac files
 .DS_Store
+
+# original crime dataset - too large for GitHub
+/denver_data/crime.csv
