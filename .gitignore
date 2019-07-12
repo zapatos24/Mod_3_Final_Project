@@ -108,3 +108,6 @@ venv.bak/
 
 # api keys
 api_keys.py
+
+# native Mac files
+.DS_Store
